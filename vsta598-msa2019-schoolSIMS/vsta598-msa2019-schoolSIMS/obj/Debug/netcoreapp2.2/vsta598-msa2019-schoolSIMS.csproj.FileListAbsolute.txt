@@ -1,0 +1,14 @@
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\bin\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.deps.json
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\bin\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.runtimeconfig.json
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\bin\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\bin\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.dll
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.RazorAssemblyInfo.cache
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.RazorAssemblyInfo.cs
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.AssemblyInfo.cs
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\bin\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.pdb
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.dll
+C:\Users\Victor\source\repos\vsta598-msa2019-schoolSIMS\vsta598-msa2019-schoolSIMS\obj\Debug\netcoreapp2.2\vsta598-msa2019-schoolSIMS.pdb
